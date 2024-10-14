@@ -3,6 +3,6 @@
     "mongodb": "^6.9.0"
   },
   "scripts": {
-    "test":"npm run test.js"
+    "test":"node test.js"
   }
 }
